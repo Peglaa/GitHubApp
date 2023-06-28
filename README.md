@@ -7,7 +7,8 @@ Developed using the latest technologies:
   3. Repository pattern
   4. Retrofit
   5. Koin DI
-  6. Compose Destinations
+  6. Room
+  7. Compose Destinations
 
 <img src="https://github.com/Peglaa/GitHubApp/assets/15163719/6c3f1444-6440-474e-b60a-c93f11cf56d7" alt="drawing" width="200"/>
 <img src="https://github.com/Peglaa/GitHubApp/assets/15163719/cbdcac28-129a-4bbc-af01-d07094026dbb" alt="drawing" width="200"/>
