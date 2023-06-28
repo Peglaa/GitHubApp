@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="search_repositories">Search repositories…</string>
+    <string name="clear_search_entries">Clear search entries</string>
+    <string name="search_entries_alert_title">All recent search entries will be deleted!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_recent_search_list">No recent search entries.</string>
+    <string name="input_error_message">Limit %d/%d</string>
+    <string name="no_internet_connection">Make sure you have an active internet connection!</string>
+    <string name="error">There was an error. Try again.</string>
+    <string name="unexpected_error">Something unexpected has happened.</string>
+    <string name="try_again">Try again</string>
+    <string name="total_count">%s repository results</string>
+    <string name="repository_owner_avatar">Repository owner avatar</string>
+    <string name="owner_title">Owner:</string>
+    <string name="description_title">Description:</string>
+    <string name="opened_issues_title">Opened issues:</string>
+    <string name="watchers_title">Watchers:</string>
+    <string name="stars_title">Stars:</string>
+    <string name="private_title">Private:</string>
+    <string name="private_yes">YES</string>
+    <string name="private_no">NO</string>
+    <string name="open_owner_repositories">Open owner repositories</string>
+    <string name="open_owner_profile">Open owner profile</string>
+    <string name="nav_back_icon_content_desc">Navigate back</string>
+</resources>
